@@ -1,6 +1,6 @@
 **14 paskaita - kartojimas.**
 
-*13 pasakaitos pabaigoje paklausti studentų, ka nori pakartoti.*
+*13 paskaitos pabaigoje paklausti studentų, ka nori pakartoti.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjA5OTgyMF19
+eyJoaXN0b3J5IjpbLTkyNzg4MDUxM119
 -->
