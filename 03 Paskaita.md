@@ -33,22 +33,22 @@ Canva turi **nemokamą** ir **mokamą** prenumeratos planą. Mokama versija sute
 ## CANVA meniu analizė ir galimybės
 
 HOME LAUKELIS:
-[![temp-Imagecj29o-D.avif](https://i.postimg.cc/8zkS27yF/temp-Imagecj29o-D.avif)](https://postimg.cc/KRWwL8hF)
+<br />[![temp-Imagecj29o-D.avif](https://i.postimg.cc/8zkS27yF/temp-Imagecj29o-D.avif)](https://postimg.cc/KRWwL8hF)
 
 PROJECTS LAUKELIS:
-[![temp-Image-KHuai-Z.avif](https://i.postimg.cc/bvsjvKfp/temp-Image-KHuai-Z.avif)](https://postimg.cc/1ghdC7zj)
+<br />[![temp-Image-KHuai-Z.avif](https://i.postimg.cc/bvsjvKfp/temp-Image-KHuai-Z.avif)](https://postimg.cc/1ghdC7zj)
 
 TEMPLATES LAUKELIS:
-[![temp-Imageqobbx4.avif](https://i.postimg.cc/PryGQttd/temp-Imageqobbx4.avif)](https://postimg.cc/xcXF0VJZ)
+<br />[![temp-Imageqobbx4.avif](https://i.postimg.cc/PryGQttd/temp-Imageqobbx4.avif)](https://postimg.cc/xcXF0VJZ)
 
 BRAND LAUKELIS:
-[![temp-Image-Mx5-MNH.avif](https://i.postimg.cc/MppCshTV/temp-Image-Mx5-MNH.avif)](https://postimg.cc/bs4VrV1w)
+<br />[![temp-Image-Mx5-MNH.avif](https://i.postimg.cc/MppCshTV/temp-Image-Mx5-MNH.avif)](https://postimg.cc/bs4VrV1w)
 
 APPS LAUKELIS:
-[![temp-Image-Nf-Nx-Lu.avif](https://i.postimg.cc/YCDJTbGV/temp-Image-Nf-Nx-Lu.avif)](https://postimg.cc/PCZ3wbMz)
+<br />[![temp-Image-Nf-Nx-Lu.avif](https://i.postimg.cc/YCDJTbGV/temp-Image-Nf-Nx-Lu.avif)](https://postimg.cc/PCZ3wbMz)
 
 DREAM LAB LAUKELIS:
-[![temp-Imageip-Cpob.avif](https://i.postimg.cc/L6HwXrjw/temp-Imageip-Cpob.avif)](https://postimg.cc/Z0MVss7x)
+<br />[![temp-Imageip-Cpob.avif](https://i.postimg.cc/L6HwXrjw/temp-Imageip-Cpob.avif)](https://postimg.cc/Z0MVss7x)
 
 ## UŽDUOTIS: PIRMASIS DIZAINO SU CANVA KŪRIMAS.
 
