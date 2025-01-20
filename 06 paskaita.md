@@ -4,7 +4,7 @@
 
  **Animacija vizualizacijose - kas tai?**
  
- Animacija – tai judesys, kuris prideda gyvybės ir dinamiškumo prie statinių elementų (tekstų, vaizdų, formų ir pan.). Animacijos padeda pritraukti dėmesį, sukurti emocinį ryšį ir pagerinti vartotojo patirtį.
+Animacija – tai judesys, kuris prideda gyvybės ir dinamiškumo prie statinių elementų (tekstų, vaizdų, formų ir pan.). Animacijos padeda pritraukti dėmesį, sukurti emocinį ryšį ir pagerinti vartotojo patirtį.
  
  **Kodėl animacijos svarbios soc. tinklų vizualizacijose?**
  
@@ -61,7 +61,7 @@ ANIMUOTAS UŽDUOTIES PAVYZDYS
  [![temp-Imageyccc-Qh.avif](https://i.postimg.cc/7ZYmsW6B/temp-Imageyccc-Qh.avif)](https://postimg.cc/QHwQVSc5)
  
  **2. Įterpti tekstą, kurio spalvos kodas: #ffffff.**
- AVOKADŲ NAUDA ORGANIZMUI (šriftas ARIMO BOLD)
+AVOKADŲ NAUDA ORGANIZMUI (šriftas ARIMO BOLD)
 100 gramų avokado turi:
 Vitamino K: 26 % RPN;
 Vitamino C: 17 % RPN;
