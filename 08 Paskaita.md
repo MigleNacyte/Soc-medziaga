@@ -43,7 +43,7 @@ Pavyzdžiui: informatyvus, mokomasis vaizdo įrašas pritrauks naujų žmonių (
     -   Vizualinė ir garsinė kompozicija: muzikinis takelis, tekstas, vaizdas turi atliepti video turinio tikslą ir auditorijos poreikius.
     -   Raginimas veikti (EN: Call-to-action (CTA)): skatinti vartotojus atlikti veiksmus, kurie kelia profilio / paskyros pasiekiamumą (pvz.: dalintis, komentuoti, pirkti, sekti, spausti patinka).
 
-[![temp-Image-ARnn-GC.avif](https://i.postimg.cc/hGLJXd6H/temp-Image-ARnn-GC.avif)](https://postimg.cc/FfKFq79Z)
+<br />[![temp-Image-ARnn-GC.avif](https://i.postimg.cc/hGLJXd6H/temp-Image-ARnn-GC.avif)](https://postimg.cc/FfKFq79Z)
 
 ## Tendencijos ir ateities perspektyvos
 
@@ -54,13 +54,13 @@ Pavyzdys: „Coldplay“ ar „Travis Scott“ naudoja VR, kad jų koncertai bū
 
 ## Populiariausi soc. tinklai Facebook (2,9 milijardo aktyvių vartotojų per mėnesį) ir Instagram (apie 2 milijardai aktyvių vartotojų per mėnesį): statistika
 
-**Facebook video turinys: įsitraukimas ir reakcijos**[![temp-Image-VQjfd-P.avif](https://i.postimg.cc/PxM8RwMm/temp-Image-VQjfd-P.avif)](https://postimg.cc/CBz1ZdX1)
+**Facebook video turinys: įsitraukimas ir reakcijos**<br />[![temp-Image-VQjfd-P.avif](https://i.postimg.cc/PxM8RwMm/temp-Image-VQjfd-P.avif)](https://postimg.cc/CBz1ZdX1)
 - **Pasiekiamumas**: vaizdo įrašai Facebook'e vidutiniškai 135% labiau pasiekiami lyginant su įprastais tekstiniais įrašais (EN: posts).
 -   **Video turinys Facebook generuoja 59% daugiau įsitraukimo lyginant su kitais įrašų (EN: posts) formatais**: vadinasi, vartotojai labiau linkę komentuoti, dalintis ir reaguoti į video turinį lyginant jį su kitais įrašų formatais (pvz.: nuotraukomis, tekstais).
 -   **„Facebook Live“ transliacijos**: „Live“ video transliacijos generuoja apie  **6 kartus daugiau įsitraukimo**  lyginant su tekstų ar nuotraukų publikavimu. Tai rodo, kad tiesioginės transliacijos skatina aktyvesnį žiūrovų įsitraukimą ir yra svarbus reklamos įrankis.
 
 **Instagram video turinys: įsitraukimas ir reakcijos**
-[![temp-Imagerol-Hz-G.avif](https://i.postimg.cc/htJTthSB/temp-Imagerol-Hz-G.avif)](https://postimg.cc/5XV6P4Y7)
+<br />[![temp-Imagerol-Hz-G.avif](https://i.postimg.cc/htJTthSB/temp-Imagerol-Hz-G.avif)](https://postimg.cc/5XV6P4Y7)
 -   **Video turinys gauna 49% daugiau įsitraukimo nei nuotraukos**: vadinasi, vartotojai labiau linkę komentuoti, dalintis ir reaguoti į video turinį lyginant jį su nuotraukomis, kurios publijuojamos Instagram.
 -   **Reels generuoja iki 22% daugiau įsitraukimo nei įprasti įrašai (EN: postai)**: prekės ženklai, kurie kuria Reels, gali pasiekti platesnę auditoriją, nes šis formatas yra prioritetizuojamas Instagram algoritmo.
 -   **Tikslinė auditorija ir populiarūs formatai**: 67% Instagram vartotojų praleidžia daugiau nei 30 minučių per dieną naršydami šiame socialiniame tinkle, o video turinys dažnai būna viena iš pagrindinių priežasčių, kodėl vartotojai naudojasi Instagram.
@@ -70,7 +70,7 @@ Pavyzdys: „Coldplay“ ar „Travis Scott“ naudoja VR, kad jų koncertai bū
 
 **„Old Spice“ reklama - virusinis hitas**
 Reklamos pavyzdys: https://www.youtube.com/watch?v=HeVR2wMwFno 
-[![temp-Imagei-Ea-ZOm.avif](https://i.postimg.cc/CMQKL7dR/temp-Imagei-Ea-ZOm.avif)](https://postimg.cc/4npGWz6G)
+<br />[![temp-Imagei-Ea-ZOm.avif](https://i.postimg.cc/CMQKL7dR/temp-Imagei-Ea-ZOm.avif)](https://postimg.cc/4npGWz6G)
 
 Kodėl „Old Spice“ tapo virusiniu kitu?
  - Neįprastas požiūris: „Old Spice“ reklamos itin humoriškos.
