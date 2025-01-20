@@ -29,7 +29,7 @@ Derinamos įvairios spalvos ne visada remiantis griežtais spalvų rato principa
 ## **Kaip išnaudoti spalvas vizualizacijos efektyvumui?**
 
    **Kontrastai:**  kontrastingi fonai gali padėti išryškinti šviesesnius tekstus ir elementus, todėl jie bus geriau matomi. Kontrastai sulaiko dėmesį ir skatina stebėtoją analizuoti.
-[![temp-Imaged-Ydx-Q9.avif](https://i.postimg.cc/28M2KJFx/temp-Imaged-Ydx-Q9.avif)](https://postimg.cc/cr7RKFzK)
+<br />[![temp-Imaged-Ydx-Q9.avif](https://i.postimg.cc/28M2KJFx/temp-Imaged-Ydx-Q9.avif)](https://postimg.cc/cr7RKFzK)
 
 -   **Spalvos ir jų atspalviai:**  derinant spalvas galima rinktis kelias pagrindines spalvas ir naudoti jų atspalvius bei tonus. Tai saugus pasirinkimas, užtikrinantis, jog spalvos tarpusavyje derės.
 [![temp-Imagexjzw-LS.avif](https://i.postimg.cc/MT6DB8qz/temp-Imagexjzw-LS.avif)](https://postimg.cc/2qthpM1t)
@@ -62,7 +62,7 @@ Derinamos įvairios spalvos ne visada remiantis griežtais spalvų rato principa
 **Išsirinkite 3-4 pagrindines spalvas ir pozicionuokite jas pagal pateiktą Instagram tinklelio dėlionės planą.**
 
 Instagram tinkelio dėlionė:
-[![temp-Image-MRK3-OG.avif](https://i.postimg.cc/nhWdDxYH/temp-Image-MRK3-OG.avif)](https://postimg.cc/VJj9x3VT)
+<br />[![temp-Image-MRK3-OG.avif](https://i.postimg.cc/nhWdDxYH/temp-Image-MRK3-OG.avif)](https://postimg.cc/VJj9x3VT)
 
 ## **Užduotis: sukurti soc. tinklų vizualizaciją** (socialinių tinklų įrašą), kuriame:
  - atsispindėtų 1 iš 5 pateiktų spalvų derinimo schemų (pvz.: komplementarus spalvų derinys (mėlyna ir oranžinė));
@@ -70,7 +70,7 @@ Instagram tinkelio dėlionė:
  - būtų užrašytas tekstas: galima pasirinkti šriftus patiems arba panaudoti CANVA font combinations.
 
 Užduoties pavyzdys:
-[![temp-Imaget8p-U8-T.avif](https://i.postimg.cc/VLWXjVZ6/temp-Imaget8p-U8-T.avif)](https://postimg.cc/w73tz0p8)
+<br />[![temp-Imaget8p-U8-T.avif](https://i.postimg.cc/VLWXjVZ6/temp-Imaget8p-U8-T.avif)](https://postimg.cc/w73tz0p8)
 
 **Užduoties tikslas:** užduotis padės praktiškai pritaikyti spalvų teoriją ir analizuoti, kaip skirtingi spalvų deriniai gali paveikti vizualinį efektyvumą.
 <!--stackedit_data:
