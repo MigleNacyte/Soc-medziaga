@@ -18,16 +18,16 @@
 ## CapCut panaudojimo galimybės, kuriant video turinį socialiniams tinklams
 
 - TikTok
-[![temp-Image-Kdhv1g.avif](https://i.postimg.cc/9QBbSQR5/temp-Image-Kdhv1g.avif)](https://postimg.cc/gxn3LdHN)
+<br />[![temp-Image-Kdhv1g.avif](https://i.postimg.cc/9QBbSQR5/temp-Image-Kdhv1g.avif)](https://postimg.cc/gxn3LdHN)
 
 - Instagram Reels
-[![153009-apps-news-feature-what-are-instagram-reels-and-how-do-they-work-the-tiktok-clone-explained-im.avif](https://i.postimg.cc/k51cJYvT/153009-apps-news-feature-what-are-instagram-reels-and-how-do-they-work-the-tiktok-clone-explained-im.avif)](https://postimg.cc/FfScGZqS)
+<br />[![153009-apps-news-feature-what-are-instagram-reels-and-how-do-they-work-the-tiktok-clone-explained-im.avif](https://i.postimg.cc/k51cJYvT/153009-apps-news-feature-what-are-instagram-reels-and-how-do-they-work-the-tiktok-clone-explained-im.avif)](https://postimg.cc/FfScGZqS)
 
 - YouTube Shorts
-[![temp-Imagex-V5mke.avif](https://i.postimg.cc/hjN1xJwx/temp-Imagex-V5mke.avif)](https://postimg.cc/r0C42pqF)
+<br />[![temp-Imagex-V5mke.avif](https://i.postimg.cc/hjN1xJwx/temp-Imagex-V5mke.avif)](https://postimg.cc/r0C42pqF)
 
 - Facebook ir Instagram Stories
-[![temp-Image6-Ut8f-E.avif](https://i.postimg.cc/65rf2ph2/temp-Image6-Ut8f-E.avif)](https://postimg.cc/9rf7sVKC)
+<br />[![temp-Image6-Ut8f-E.avif](https://i.postimg.cc/65rf2ph2/temp-Image6-Ut8f-E.avif)](https://postimg.cc/9rf7sVKC)
 
 - Profesionalūs reklaminiai vaizdo įrašai ir produktų pristatymai
 
@@ -50,27 +50,27 @@
 *Arba* parsisiųskite CapCut programą į kompiuterį: https://www.capcut.com/tools/video-editor-download
 
 Prisijungę turite matyti tokį vaizdą:
-[![temp-Imagewkoj-NN.avif](https://i.postimg.cc/J79pHgVg/temp-Imagewkoj-NN.avif)](https://postimg.cc/dDj2z50m)
+<br />[![temp-Imagewkoj-NN.avif](https://i.postimg.cc/J79pHgVg/temp-Imagewkoj-NN.avif)](https://postimg.cc/dDj2z50m)
 
 ## CapCut meniu analizė ir galimybės
 
-**MEDIA SKILTIS**[![temp-Imageu0g6-SJ.avif](https://i.postimg.cc/rmDvh1TH/temp-Imageu0g6-SJ.avif)](https://postimg.cc/5YM7yF65)
+**MEDIA SKILTIS**<br />[![temp-Imageu0g6-SJ.avif](https://i.postimg.cc/rmDvh1TH/temp-Imageu0g6-SJ.avif)](https://postimg.cc/5YM7yF65)
 
-**AUDIO SKILTIS**[![temp-Imagex-ZBOR6.avif](https://i.postimg.cc/cCYPWdrM/temp-Imagex-ZBOR6.avif)](https://postimg.cc/wRqwc857)
+**AUDIO SKILTIS**<br />[![temp-Imagex-ZBOR6.avif](https://i.postimg.cc/cCYPWdrM/temp-Imagex-ZBOR6.avif)](https://postimg.cc/wRqwc857)
 
-**TEXT SKILTIS**[![temp-Image-Atad-Fd.avif](https://i.postimg.cc/VLQ3R0V7/temp-Image-Atad-Fd.avif)](https://postimg.cc/6Tcj6qwR)
+**TEXT SKILTIS**<br />[![temp-Image-Atad-Fd.avif](https://i.postimg.cc/VLQ3R0V7/temp-Image-Atad-Fd.avif)](https://postimg.cc/6Tcj6qwR)
 
-**STICKERS SKILTIS**[![temp-Imagebx3-ZFG.avif](https://i.postimg.cc/B6PV5Jc9/temp-Imagebx3-ZFG.avif)](https://postimg.cc/gXdsmFTN)
+**STICKERS SKILTIS**<br />[![temp-Imagebx3-ZFG.avif](https://i.postimg.cc/B6PV5Jc9/temp-Imagebx3-ZFG.avif)](https://postimg.cc/gXdsmFTN)
 
-**EFFECTS SKILTIS**[![temp-Imaged-MVJAw.avif](https://i.postimg.cc/T2mspY3n/temp-Imaged-MVJAw.avif)](https://postimg.cc/YjrRP7gS)
+**EFFECTS SKILTIS**<br />[![temp-Imaged-MVJAw.avif](https://i.postimg.cc/T2mspY3n/temp-Imaged-MVJAw.avif)](https://postimg.cc/YjrRP7gS)
 
-**TRANSITIONS SKILTIS**[![temp-Image4o1-Zqw.avif](https://i.postimg.cc/cL1k9RMc/temp-Image4o1-Zqw.avif)](https://postimg.cc/mtqShFnc)
+**TRANSITIONS SKILTIS**<br />[![temp-Image4o1-Zqw.avif](https://i.postimg.cc/cL1k9RMc/temp-Image4o1-Zqw.avif)](https://postimg.cc/mtqShFnc)
 
-**CAPTIONS SKILTIS**[![temp-Image3l901-A.avif](https://i.postimg.cc/YShnktPG/temp-Image3l901-A.avif)](https://postimg.cc/cKGMBG00)
+**CAPTIONS SKILTIS**<br />[![temp-Image3l901-A.avif](https://i.postimg.cc/YShnktPG/temp-Image3l901-A.avif)](https://postimg.cc/cKGMBG00)
 
-**FILTERS SKILTIS**[![temp-Image3-PSC8-O.avif](https://i.postimg.cc/R0yPZjrP/temp-Image3-PSC8-O.avif)](https://postimg.cc/XZKK21YF)
+**FILTERS SKILTIS**<br />[![temp-Image3-PSC8-O.avif](https://i.postimg.cc/R0yPZjrP/temp-Image3-PSC8-O.avif)](https://postimg.cc/XZKK21YF)
 
-**ADJUSTMENT SKILTIS**[![temp-Image-MDo-Yf-T.avif](https://i.postimg.cc/cH3FgX0d/temp-Image-MDo-Yf-T.avif)](https://postimg.cc/ftwc17VP)
+**ADJUSTMENT SKILTIS**<br />[![temp-Image-MDo-Yf-T.avif](https://i.postimg.cc/cH3FgX0d/temp-Image-MDo-Yf-T.avif)](https://postimg.cc/ftwc17VP)
 
 **Užduotis:** susikūrus CapCut paskyrą susipažinti su programos galimybėmis ir sukurti pirmąjį vaizdo įrašą.
 
@@ -84,14 +84,14 @@ Kaip į CapCut įkelti vaizdo įrašą? [![temp-Image-Af-D9-Zk.avif](https://i.p
 4. Įkeltam vaizdo įrašui pridėti CapCut muzikos archyve esantį muzikinį takelį.
 
 Kaip pridėti muzikinį takelį?
-[![temp-Image-Lqw-Ch-C.avif](https://i.postimg.cc/Dzd4ryQL/temp-Image-Lqw-Ch-C.avif)](https://postimg.cc/f3ybZsrR)
-[![temp-Imagem-UYK48.avif](https://i.postimg.cc/B6SLM9Ny/temp-Imagem-UYK48.avif)](https://postimg.cc/McLppLCb)
+<br />[![temp-Image-Lqw-Ch-C.avif](https://i.postimg.cc/Dzd4ryQL/temp-Image-Lqw-Ch-C.avif)](https://postimg.cc/f3ybZsrR)
+<br />[![temp-Imagem-UYK48.avif](https://i.postimg.cc/B6SLM9Ny/temp-Imagem-UYK48.avif)](https://postimg.cc/McLppLCb)
 
 6. Išsaugoti įkeltą vaizdo įrašą.
 
 Kaip išsaugoti vaizdo įrašą?
-[![temp-Image-Aft-Xe-Y.avif](https://i.postimg.cc/2SF00tWW/temp-Image-Aft-Xe-Y.avif)](https://postimg.cc/75h16mmP)
-[![temp-Image-BBMio-H.avif](https://i.postimg.cc/FKrD8xbB/temp-Image-BBMio-H.avif)](https://postimg.cc/bZ5x2kBx)
+<br />[![temp-Image-Aft-Xe-Y.avif](https://i.postimg.cc/2SF00tWW/temp-Image-Aft-Xe-Y.avif)](https://postimg.cc/75h16mmP)
+<br />[![temp-Image-BBMio-H.avif](https://i.postimg.cc/FKrD8xbB/temp-Image-BBMio-H.avif)](https://postimg.cc/bZ5x2kBx)
 
 **Užduoties tikslas:** analizuoti reklaminę vizualizaciją ir įvertinti, kaip pateikta reklama atitinka aptartus principus (spalvų, formų ir judesių psichologiją).
 
