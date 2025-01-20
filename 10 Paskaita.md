@@ -98,7 +98,7 @@ Efektai (angl.  *effects*) – tai vizualiniai ir garsiniai elementai, kurie nau
 [![temp-Imagem-UYK48.avif](https://i.postimg.cc/B6SLM9Ny/temp-Imagem-UYK48.avif)](https://postimg.cc/McLppLCb)
 
 **Vaizdo įrašo išsaugojimas:**
-[![temp-Image-FZlt82.avif](https://i.postimg.cc/pTs9SG6d/temp-Image-FZlt82.avif)](https://postimg.cc/0MJ2Mfxg)
+<br />[![temp-Image-FZlt82.avif](https://i.postimg.cc/pTs9SG6d/temp-Image-FZlt82.avif)](https://postimg.cc/0MJ2Mfxg)
 [![temp-Image-Ua-R7ty.avif](https://i.postimg.cc/kGDVPQ0v/temp-Image-Ua-R7ty.avif)](https://postimg.cc/cty1Qn4v)
 
 ## Užduotis: sukurkite iki 30 sekundžių trukmės vaizdo įrašą, skirtą pasirinktai soc. tinklų platformai (pvz.: Instagram reels), naudojant perėjimus, efektus ir pridedant muzikinį takelį.
