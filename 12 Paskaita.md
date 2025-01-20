@@ -33,7 +33,7 @@ Tekstas - viena pagrindinių priemonių, padedančių perteikti žinutę ir info
 **Skaitymo patogumas**: tekstą turi būti lengva perskaityti, todėl  svarbu pasirinkti vietą, kuri būti aiški ir neužstotų svarbių vaizdo elementų.
 **Teksto ilgis**: jei tekstas yra ilgas - jis gali užimti daugiau vietos ekrane, todėl reikia gerai apgalvoti, kur jį pozicionuoti arba kurioje vietoje tinkama tekstą trumpinti / skaidyti dalimis.
 
-[![temp-Image-HVMc-BI.avif](https://i.postimg.cc/DyBp7LS4/temp-Image-HVMc-BI.avif)](https://postimg.cc/0bK0f6d9)
+<br />[![temp-Image-HVMc-BI.avif](https://i.postimg.cc/DyBp7LS4/temp-Image-HVMc-BI.avif)](https://postimg.cc/0bK0f6d9)
 
 **Šriftai ir jų įtaka vaizdo įrašams**:
 
@@ -45,21 +45,21 @@ Tekstas - viena pagrindinių priemonių, padedančių perteikti žinutę ir info
 ## Teksto efektai, šriftas, šablonai, automatiniai subtitrai, animacijos montuojant vaizdo įrašus su CapCut
 
 **Kaip pridėti tekstą?**
-[![temp-Imagego0-KZC.avif](https://i.postimg.cc/XYYKLP7p/temp-Imagego0-KZC.avif)](https://postimg.cc/nCNQc0mJ)
-[![temp-Imager-Zw-QTo.avif](https://i.postimg.cc/PqBmtrbw/temp-Imager-Zw-QTo.avif)](https://postimg.cc/qtxtwr5J)
+<br />[![temp-Imagego0-KZC.avif](https://i.postimg.cc/XYYKLP7p/temp-Imagego0-KZC.avif)](https://postimg.cc/nCNQc0mJ)
+<br />[![temp-Imager-Zw-QTo.avif](https://i.postimg.cc/PqBmtrbw/temp-Imager-Zw-QTo.avif)](https://postimg.cc/qtxtwr5J)
 
 **Kaip pakeisti teksto šriftą?**
-[![temp-Imagezt-X2so.avif](https://i.postimg.cc/pLMbnD2G/temp-Imagezt-X2so.avif)](https://postimg.cc/0bnHTKKD)
+<br />[![temp-Imagezt-X2so.avif](https://i.postimg.cc/pLMbnD2G/temp-Imagezt-X2so.avif)](https://postimg.cc/0bnHTKKD)
 
 **Kaip naudoti teksto šablonus (presets)?**
-[![temp-Image-Gx-PYni.avif](https://i.postimg.cc/cCWwn9b1/temp-Image-Gx-PYni.avif)](https://postimg.cc/1nW8xHSb)
+<br />[![temp-Image-Gx-PYni.avif](https://i.postimg.cc/cCWwn9b1/temp-Image-Gx-PYni.avif)](https://postimg.cc/1nW8xHSb)
 
 **Kaip tekstui pridėti animacijas?**
-[![temp-Image-Gx-PYni.avif](https://i.postimg.cc/cCWwn9b1/temp-Image-Gx-PYni.avif)](https://postimg.cc/1nW8xHSb)
+<br />[![temp-Image-Gx-PYni.avif](https://i.postimg.cc/cCWwn9b1/temp-Image-Gx-PYni.avif)](https://postimg.cc/1nW8xHSb)
 
 **Kaip pridėti automatinius subtitrus (captions)? Kaip importuoti subtitrus iš kitos platformos?**
 Plačiau apie subtitrų importavimą iš kitos platformos: https://www.youtube.com/watch?v=PHyzxofiWo0
-[![temp-Image-ZQh-Eaa.avif](https://i.postimg.cc/v87Wsy44/temp-Image-ZQh-Eaa.avif)](https://postimg.cc/PNxLWBzH)
+<br />[![temp-Image-ZQh-Eaa.avif](https://i.postimg.cc/v87Wsy44/temp-Image-ZQh-Eaa.avif)](https://postimg.cc/PNxLWBzH)
 
 ## Užduotis: sukurkite iki 30 sekundžių trukmės vaizdo įrašą, skirtą pasirinktai soc. tinklų platformai (pvz.: Instagram reels). Panaudokite įgytas žinias apie tekstą, montuojant video CapCut programa.
 
