@@ -17,7 +17,7 @@
 Skirtingos spalvos sukelia skirtingas emocijas ir asociacijas. Kelios pagrindinių spalvų psichologinės reikšmės ir jų panaudojimo galimybės:
 
 -   **Mėlyna**:
-[![temp-Image-NKm-Ld-H.avif](https://i.postimg.cc/x8nXBKck/temp-Image-NKm-Ld-H.avif)](https://postimg.cc/phcVF5Qx)
+<br />[![temp-Image-NKm-Ld-H.avif](https://i.postimg.cc/x8nXBKck/temp-Image-NKm-Ld-H.avif)](https://postimg.cc/phcVF5Qx)
     
 -   **Raudona**:
 [![temp-Imagekc-UDun.avif](https://i.postimg.cc/7h954f2K/temp-Imagekc-UDun.avif)](https://postimg.cc/zHLzSDph)
