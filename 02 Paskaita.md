@@ -20,16 +20,16 @@ Skirtingos spalvos sukelia skirtingas emocijas ir asociacijas. Kelios pagrindini
 <br />[![temp-Image-NKm-Ld-H.avif](https://i.postimg.cc/x8nXBKck/temp-Image-NKm-Ld-H.avif)](https://postimg.cc/phcVF5Qx)
     
 -   **Raudona**:
-[![temp-Imagekc-UDun.avif](https://i.postimg.cc/7h954f2K/temp-Imagekc-UDun.avif)](https://postimg.cc/zHLzSDph)
+<br />[![temp-Imagekc-UDun.avif](https://i.postimg.cc/7h954f2K/temp-Imagekc-UDun.avif)](https://postimg.cc/zHLzSDph)
 
 -   **Žalia**:
-[![temp-Image-Jr-Gdx1.avif](https://i.postimg.cc/CMsBk6Qb/temp-Image-Jr-Gdx1.avif)](https://postimg.cc/kDDgdw95)
+<br />[![temp-Image-Jr-Gdx1.avif](https://i.postimg.cc/CMsBk6Qb/temp-Image-Jr-Gdx1.avif)](https://postimg.cc/kDDgdw95)
 
 -   **Juoda**:
-[![temp-Imaget4hyw-S.avif](https://i.postimg.cc/jdqWXQpm/temp-Imaget4hyw-S.avif)](https://postimg.cc/w3PTxJTQ)
+<br />[![temp-Imaget4hyw-S.avif](https://i.postimg.cc/jdqWXQpm/temp-Imaget4hyw-S.avif)](https://postimg.cc/w3PTxJTQ)
 
 -   **Balta**:
-[![temp-Image-YJJHq-M.avif](https://i.postimg.cc/pX0m15xT/temp-Image-YJJHq-M.avif)](https://postimg.cc/KRMc1z1S)
+<br />[![temp-Image-YJJHq-M.avif](https://i.postimg.cc/pX0m15xT/temp-Image-YJJHq-M.avif)](https://postimg.cc/KRMc1z1S)
 
 ### **Kokias spalvas rizikinga naudoti?**
 
@@ -41,7 +41,7 @@ Nors spalvų pasirinkimas priklauso nuo prekės ženklo ir tikslo, kai kurios sp
 ## **Kaip išsirinkti tinkamas spalvas vizualinio turinio kūrimui soc. tinkluose?**
 
    **Pagrindinės spalvos**: rekomenduojama turinio kūrimui pasirinkti 2-3 pagrindines spalvas. Išsirinkti bus lengviau naudojantis CANVA pateikiamų spalvų palete.
-[![temp-Image-Ua-Bi-IC.avif](https://i.postimg.cc/132fyx81/temp-Image-Ua-Bi-IC.avif)](https://postimg.cc/FYb9xBbT)
+<br />[![temp-Image-Ua-Bi-IC.avif](https://i.postimg.cc/132fyx81/temp-Image-Ua-Bi-IC.avif)](https://postimg.cc/FYb9xBbT)
 
 -   **Spalvų atranka pagal tikslinę auditoriją**: jei tikslinė auditorija yra jaunesnė - ryškios ir energingos spalvos gali būti veiksmingesnės, tuo tarpu vyresniems vartotojams gali labiau patikti švelnios, pastelinės spalvos.
 [![temp-Imagens-Rz-OI.avif](https://i.postimg.cc/gJPj6vyM/temp-Imagens-Rz-OI.avif)](https://postimg.cc/hJpckQ5x)
@@ -69,7 +69,7 @@ Tinkamai parinktos formos vizualiniame turinyje padeda pritraukti dėmesį, perd
 [![temp-Image-WZ4k49.avif](https://i.postimg.cc/Gtmckz4j/temp-Image-WZ4k49.avif)](https://postimg.cc/Q9vGDQkB)
 
     - lanksčios linijos: asocijuojasi su kūrybiškumu ir laisve. Kuria neformalų įvaizdį, tinka prekės ženklams, siekiantiems išsiskirti kūrybiškumu.
-[![temp-Image-WZ4k49.avif](https://i.postimg.cc/Gtmckz4j/temp-Image-WZ4k49.avif)](https://postimg.cc/Q9vGDQkB)
+<br />[![temp-Image-WZ4k49.avif](https://i.postimg.cc/Gtmckz4j/temp-Image-WZ4k49.avif)](https://postimg.cc/Q9vGDQkB)
 
 ## JUDESIAI
 
